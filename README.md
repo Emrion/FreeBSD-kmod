@@ -9,7 +9,7 @@ They are in the form _Version_-**name_of_the_port**.pkg
 Example: _14.1_-**drm-61-kmod-6.1.92**.pkg
 
 # Use
-Intall this package with:  
+Install this package with:  
 `# pkg add Version-name_of_the_port.pkg`  
 `# pkg lock name_of_the_port`  
 
