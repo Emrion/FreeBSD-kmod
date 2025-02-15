@@ -14,3 +14,9 @@ Install this package with:
 `# pkg lock name_of_the_port`  
 
 Don't forget to unlock it when the repositories get updated to the new minor version of FreeBSD.
+
+## Example
+
+Using the GitHub _raw_ link for a `.pkg` file: 
+
+`pkg add https://github.com/Emrion/FreeBSD-kmod/raw/refs/heads/main/14.2-virtualbox-ose-kmod-6.1.50.pkg`
